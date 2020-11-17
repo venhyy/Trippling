@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.635" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mm"/>
@@ -1941,27 +1941,27 @@ design rules under a new name.</description>
 <attribute name="SPICEPREFIX" value="X" x="7.493" y="88.138" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="3.3655" y="86.0855" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="K3" library="2071508-1" package="RELAY_2071508-1" value="2071508-1" x="11.43" y="65.405" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" Power Relay 5VDC 10A SPST-NO(18.2mm 10.2mm 15.2mm) THT " x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="TE Connectivity" x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="2071508-1" x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="2.54" y="71.755" size="1.27" layer="25"/>
-<attribute name="PACKAGE" value="Package " x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/2071508-1/?ref=eda" x="11.43" y="65.405" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="2.54" y="57.785" size="1.27" layer="27"/>
+<element name="K3" library="2071508-1" package="RELAY_2071508-1" override_package3d_urn="urn:adsk.eagle:package:24786443/2" override_package_urn="urn:adsk.eagle:footprint:24786444/1" value="2071508-1" x="22.225" y="82.55" smashed="yes" rot="R180">
+<attribute name="AVAILABILITY" value="Warning" x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESCRIPTION" value=" Power Relay 5VDC 10A SPST-NO(18.2mm 10.2mm 15.2mm) THT " x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MF" value="TE Connectivity" x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MP" value="2071508-1" x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="11.811" y="80.391" size="0.8128" layer="25" font="vector" rot="R270"/>
+<attribute name="PACKAGE" value="Package " x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PRICE" value="None" x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/2071508-1/?ref=eda" x="22.225" y="82.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="31.115" y="90.17" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="K4" library="2071508-1" package="RELAY_2071508-1" value="2071508-1" x="11.43" y="48.895" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" Power Relay 5VDC 10A SPST-NO(18.2mm 10.2mm 15.2mm) THT " x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="TE Connectivity" x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="2071508-1" x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="2.54" y="55.245" size="1.27" layer="25"/>
-<attribute name="PACKAGE" value="Package " x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/2071508-1/?ref=eda" x="11.43" y="48.895" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="2.54" y="41.275" size="1.27" layer="27"/>
+<element name="K4" library="2071508-1" package="RELAY_2071508-1" override_package3d_urn="urn:adsk.eagle:package:24786489/2" override_package_urn="urn:adsk.eagle:footprint:24786513/1" value="2071508-1" x="22.225" y="93.98" smashed="yes" rot="R180">
+<attribute name="AVAILABILITY" value="Warning" x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESCRIPTION" value=" Power Relay 5VDC 10A SPST-NO(18.2mm 10.2mm 15.2mm) THT " x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MF" value="TE Connectivity" x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MP" value="2071508-1" x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="11.811" y="91.186" size="0.8128" layer="25" font="vector" rot="R270"/>
+<attribute name="PACKAGE" value="Package " x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PRICE" value="None" x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/2071508-1/?ref=eda" x="22.225" y="93.98" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="31.115" y="101.6" size="1.27" layer="27" rot="R180"/>
 </element>
 </elements>
 <signals>
@@ -2037,18 +2037,6 @@ design rules under a new name.</description>
 <via x="45.72" y="78.74" extent="1-16" drill="0.35"/>
 <wire x1="45.72" y1="78.74" x2="45.085" y2="79.375" width="0.508" layer="1"/>
 <wire x1="45.085" y1="79.375" x2="44.075" y2="79.375" width="0.508" layer="1"/>
-<polygon width="0.1524" layer="1">
-<vertex x="2.54" y="101.6"/>
-<vertex x="58.42" y="101.6"/>
-<vertex x="58.42" y="74.295"/>
-<vertex x="2.54" y="74.295"/>
-</polygon>
-<polygon width="0.1524" layer="16">
-<vertex x="2.54" y="101.6"/>
-<vertex x="58.42" y="101.6"/>
-<vertex x="58.42" y="74.93"/>
-<vertex x="2.54" y="74.93"/>
-</polygon>
 </signal>
 <signal name="+5V">
 <contactref element="D3" pad="C"/>
@@ -2081,7 +2069,7 @@ design rules under a new name.</description>
 <wire x1="39.751" y1="78.359" x2="39.497" y2="78.105" width="0.508" layer="1"/>
 <wire x1="39.497" y1="78.105" x2="38.475" y2="78.105" width="0.508" layer="1"/>
 <wire x1="39.751" y1="80.264" x2="39.751" y2="78.359" width="0.508" layer="1"/>
-<wire x1="33.655" y1="93.98" x2="38.735" y2="93.98" width="1.016" layer="16"/>
+<wire x1="38.735" y1="93.98" x2="33.655" y2="93.98" width="1.016" layer="16"/>
 <wire x1="38.735" y1="93.98" x2="43.815" y2="99.06" width="1.016" layer="16"/>
 <via x="43.815" y="99.8476" extent="1-16" drill="0.35"/>
 <wire x1="43.815" y1="99.746" x2="43.815" y2="99.06" width="1.016" layer="16"/>
@@ -2091,7 +2079,8 @@ design rules under a new name.</description>
 <via x="37.084" y="78.613" extent="1-16" drill="0.35"/>
 <wire x1="37.084" y1="78.613" x2="37.592" y2="78.105" width="0.508" layer="1"/>
 <wire x1="37.592" y1="78.105" x2="38.475" y2="78.105" width="0.508" layer="1"/>
-<wire x1="30.099" y1="79.756" x2="35.814" y2="79.756" width="0.508" layer="16"/>
+<wire x1="30.099" y1="79.756" x2="31.081" y2="79.756" width="0.508" layer="16"/>
+<wire x1="31.115" y1="79.756" x2="35.814" y2="79.756" width="0.508" layer="16"/>
 <wire x1="55.88" y1="77.47" x2="57.15" y2="78.74" width="0.508" layer="1"/>
 <wire x1="57.15" y1="78.74" x2="57.15" y2="83.185" width="0.508" layer="1"/>
 <wire x1="57.15" y1="83.185" x2="56.515" y2="83.82" width="0.508" layer="1"/>
@@ -2113,10 +2102,16 @@ design rules under a new name.</description>
 <wire x1="43.815" y1="99.8476" x2="43.815" y2="99.746" width="0.508" layer="16"/>
 <contactref element="K3" pad="1"/>
 <contactref element="K4" pad="1"/>
-<wire x1="29.845" y1="92.88" x2="33.655" y2="93.98" width="0" layer="19" extent="16-16"/>
-<wire x1="38.475" y1="80.645" x2="49.2125" y2="80.7085" width="0" layer="19" extent="1-1"/>
-<wire x1="3.58" y1="69.205" x2="29.845" y2="81.45" width="0" layer="19" extent="16-16"/>
-<wire x1="3.58" y1="52.695" x2="3.58" y2="69.205" width="0" layer="19" extent="1-1"/>
+<wire x1="30.075" y1="90.18" x2="29.845" y2="90.41" width="0.508" layer="16"/>
+<wire x1="29.845" y1="90.41" x2="29.845" y2="92.88" width="0.508" layer="16"/>
+<wire x1="33.655" y1="93.98" x2="30.075" y2="90.4" width="1.016" layer="16"/>
+<wire x1="30.075" y1="90.4" x2="30.075" y2="90.18" width="1.016" layer="16"/>
+<wire x1="30.075" y1="90.18" x2="27.94" y2="88.045" width="1.016" layer="16"/>
+<wire x1="27.94" y1="88.045" x2="27.94" y2="80.01" width="1.016" layer="16"/>
+<wire x1="27.94" y1="80.01" x2="29.2" y2="78.75" width="1.016" layer="16"/>
+<wire x1="29.2" y1="78.75" x2="30.075" y2="78.75" width="1.016" layer="16"/>
+<wire x1="30.075" y1="78.75" x2="31.081" y2="79.756" width="0.508" layer="16"/>
+<wire x1="31.081" y1="79.756" x2="31.115" y2="79.756" width="0.508" layer="16"/>
 </signal>
 <signal name="N$18">
 <contactref element="T2" pad="C"/>
@@ -2125,10 +2120,12 @@ design rules under a new name.</description>
 <wire x1="34.12" y1="84.455" x2="33.655" y2="84.455" width="0.508" layer="1"/>
 <via x="33.655" y="84.455" extent="1-16" drill="0.35"/>
 <wire x1="33.655" y1="84.455" x2="33.02" y2="84.455" width="0.508" layer="16"/>
-<wire x1="33.02" y1="84.455" x2="31.115" y2="86.36" width="0.508" layer="16"/>
+<wire x1="31.115" y1="86.36" x2="33.02" y2="84.455" width="0.508" layer="16"/>
 <contactref element="K3" pad="2"/>
-<wire x1="29.845" y1="83.65" x2="31.115" y2="86.36" width="0" layer="19" extent="16-16"/>
-<wire x1="3.58" y1="61.605" x2="29.845" y2="83.65" width="0" layer="19" extent="16-16"/>
+<wire x1="30.075" y1="86.35" x2="29.845" y2="86.12" width="0.508" layer="16"/>
+<wire x1="29.845" y1="86.12" x2="29.845" y2="83.65" width="0.508" layer="16"/>
+<wire x1="30.075" y1="86.35" x2="30.085" y2="86.36" width="0.508" layer="16"/>
+<wire x1="30.085" y1="86.36" x2="31.115" y2="86.36" width="0.508" layer="16"/>
 </signal>
 <signal name="N$19">
 <contactref element="R1" pad="2"/>
@@ -2148,11 +2145,12 @@ design rules under a new name.</description>
 <contactref element="D2" pad="A"/>
 <wire x1="34.29" y1="93.81" x2="34.29" y2="95.25" width="0.8128" layer="1"/>
 <via x="34.29" y="95.25" extent="1-16" drill="0.35"/>
-<wire x1="34.29" y1="95.25" x2="33.3375" y2="96.2025" width="0.508" layer="16"/>
-<wire x1="31.75" y1="97.79" x2="33.3375" y2="96.2025" width="0.508" layer="16"/>
+<wire x1="31.75" y1="97.79" x2="34.29" y2="95.25" width="0.508" layer="16"/>
 <contactref element="K4" pad="2"/>
-<wire x1="29.845" y1="95.08" x2="31.75" y2="97.79" width="0" layer="19" extent="16-16"/>
-<wire x1="3.58" y1="45.095" x2="29.845" y2="95.08" width="0" layer="19" extent="16-16"/>
+<wire x1="30.075" y1="97.78" x2="29.845" y2="97.55" width="0.508" layer="16"/>
+<wire x1="29.845" y1="97.55" x2="29.845" y2="95.08" width="0.508" layer="16"/>
+<wire x1="30.075" y1="97.78" x2="30.085" y2="97.79" width="0.508" layer="16"/>
+<wire x1="30.085" y1="97.79" x2="31.75" y2="97.79" width="0.508" layer="16"/>
 </signal>
 <signal name="N$22">
 <contactref element="RELE" pad="5"/>
@@ -2273,8 +2271,10 @@ design rules under a new name.</description>
 <wire x1="33.975" y1="86.36" x2="32.07" y2="88.265" width="0.508" layer="1"/>
 <wire x1="32.07" y1="88.265" x2="19.05" y2="88.265" width="0.508" layer="1"/>
 <contactref element="K3" pad="4"/>
-<wire x1="14.605" y1="86.36" x2="19.05" y2="88.265" width="0" layer="19" extent="1-16"/>
-<wire x1="16.28" y1="61.605" x2="7.593" y2="81.138" width="0" layer="19" extent="1-1"/>
+<wire x1="14.605" y1="86.36" x2="17.365" y2="86.36" width="1.016" layer="16"/>
+<wire x1="17.365" y1="86.36" x2="17.375" y2="86.35" width="1.016" layer="16"/>
+<wire x1="19.05" y1="88.265" x2="17.375" y2="86.59" width="0.508" layer="1"/>
+<wire x1="17.375" y1="86.59" x2="17.375" y2="86.35" width="0.508" layer="1"/>
 </signal>
 <signal name="RIGHT">
 <contactref element="X1" pad="3"/>
@@ -2290,21 +2290,24 @@ design rules under a new name.</description>
 <wire x1="20.32" y1="99.695" x2="18.415" y2="97.79" width="0.508" layer="16"/>
 <wire x1="33.655" y1="99.695" x2="20.32" y2="99.695" width="0.508" layer="16"/>
 <contactref element="K4" pad="4"/>
-<wire x1="6.35" y1="97.79" x2="18.415" y2="97.79" width="0" layer="19" extent="16-16"/>
-<wire x1="16.28" y1="45.095" x2="7.593" y2="88.138" width="0" layer="19" extent="1-1"/>
+<wire x1="6.35" y1="97.79" x2="17.365" y2="97.79" width="1.016" layer="16"/>
+<wire x1="17.365" y1="97.79" x2="17.375" y2="97.78" width="1.016" layer="16"/>
+<wire x1="18.415" y1="97.79" x2="17.365" y2="97.79" width="0.508" layer="16"/>
 </signal>
 <signal name="COM">
 <contactref element="X1" pad="2"/>
-<wire x1="13.97" y1="78.105" x2="6.35" y2="78.105" width="1.27" layer="16"/>
+<wire x1="6.35" y1="78.105" x2="13.97" y2="78.105" width="1.27" layer="16"/>
 <wire x1="6.35" y1="78.105" x2="5.08" y2="79.375" width="1.27" layer="16"/>
 <wire x1="5.08" y1="79.375" x2="5.08" y2="82.55" width="1.27" layer="16"/>
 <wire x1="5.08" y1="82.55" x2="7.168" y2="84.638" width="1.27" layer="16"/>
 <wire x1="7.168" y1="84.638" x2="7.593" y2="84.638" width="1.27" layer="16"/>
-<wire x1="9.073" y1="84.638" x2="7.593" y2="84.638" width="1.27" layer="16"/>
+<wire x1="7.593" y1="84.638" x2="9.073" y2="84.638" width="1.27" layer="16"/>
 <contactref element="K3" pad="3"/>
 <contactref element="K4" pad="3"/>
-<wire x1="13.97" y1="78.105" x2="18.82" y2="69.205" width="0" layer="19" extent="16-16"/>
-<wire x1="18.82" y1="52.695" x2="18.82" y2="69.205" width="0" layer="19" extent="1-1"/>
+<wire x1="13.97" y1="78.105" x2="14.19" y2="78.105" width="1.016" layer="16"/>
+<wire x1="14.19" y1="78.105" x2="14.835" y2="78.75" width="1.016" layer="16"/>
+<wire x1="9.073" y1="84.638" x2="9.293" y2="84.638" width="1.016" layer="16"/>
+<wire x1="9.293" y1="84.638" x2="14.835" y2="90.18" width="1.016" layer="16"/>
 </signal>
 <signal name="VCC">
 <contactref element="LD1117" pad="3"/>
