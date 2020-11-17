@@ -10804,7 +10804,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="120"/>
 <part name="D2" library="_hhn_diodes_smd" deviceset="1N4148WS" device="" override_package3d_urn="urn:adsk.eagle:package:24766030/2" override_package_urn="urn:adsk.eagle:footprint:24766031/1"/>
 <part name="D3" library="_hhn_diodes_smd" deviceset="1N4148WS" device="" override_package3d_urn="urn:adsk.eagle:package:24766019/2" override_package_urn="urn:adsk.eagle:footprint:24766020/1"/>
-<part name="RELE_OPTO" library="SparkFun-DiscreteSemi" deviceset="ILD213T" device="-IDL213T"/>
+<part name="RELE_OPTO" library="SparkFun-DiscreteSemi" deviceset="ILD213T" device="-IDL213T" override_package3d_urn="urn:adsk.eagle:package:24766043/2" override_package_urn="urn:adsk.eagle:footprint:24766044/1"/>
 <part name="K1" library="SparkFun-Electromechanical" deviceset="RELAY-SPDT" device="-JZC-11F" override_package3d_urn="urn:adsk.eagle:package:24760025/2" override_package_urn="urn:adsk.eagle:footprint:24760066/1"/>
 <part name="K2" library="SparkFun-Electromechanical" deviceset="RELAY-SPDT" device="-JZC-11F" override_package3d_urn="urn:adsk.eagle:package:24761300/2" override_package_urn="urn:adsk.eagle:footprint:24761301/1"/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
@@ -10816,7 +10816,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="MCU" library="_hhn_attiny25_45_85" deviceset="ATTINY85*" device="S" override_package3d_urn="urn:adsk.eagle:package:24764172/2" override_package_urn="urn:adsk.eagle:footprint:24764174/1" technology="V-10"/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="INPUT_OPTO" library="SparkFun-DiscreteSemi" deviceset="ILD213T" device="-IDL213T"/>
+<part name="INPUT_OPTO" library="SparkFun-DiscreteSemi" deviceset="ILD213T" device="-IDL213T" override_package3d_urn="urn:adsk.eagle:package:24766048/2" override_package_urn="urn:adsk.eagle:footprint:24766049/1"/>
 <part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" override_package3d_urn="urn:adsk.eagle:package:24764836/2" override_package_urn="urn:adsk.eagle:footprint:25627/1" override_locally_modified="yes" value="470"/>
 <part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="470"/>
 <part name="X1" library="con-phoenix-350" library_urn="urn:adsk.eagle:library:174" deviceset="1751277" device="" package3d_urn="urn:adsk.eagle:package:9396/1" override_package3d_urn="urn:adsk.eagle:package:24765904/2" override_package_urn="urn:adsk.eagle:footprint:9374/1">
@@ -10828,7 +10828,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="LD1117" library="SparkFun-IC-Power" deviceset="V_REG_LD1117VXX" device="LD1117-SMD"/>
+<part name="LD1117" library="SparkFun-IC-Power" deviceset="V_REG_LD1117VXX" device="LD1117-SMD" override_package3d_urn="urn:adsk.eagle:package:24774016/2" override_package_urn="urn:adsk.eagle:footprint:24774017/1"/>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100n"/>
