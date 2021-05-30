@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.635" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mm"/>
@@ -168,9 +168,12 @@
 <wire x1="2.54" y1="97.79" x2="6.35" y2="101.6" width="0.508" layer="20" curve="-90"/>
 <wire x1="54.61" y1="101.6" x2="58.42" y2="97.79" width="0.508" layer="20" curve="-100.388858"/>
 <wire x1="58.42" y1="78.74" x2="54.61" y2="74.93" width="0.508" layer="20" curve="-100.388858"/>
-<text x="26.035" y="94.615" size="2.54" layer="26" font="vector" ratio="10" rot="MR270">Trippling</text>
+<text x="26.67" y="94.615" size="2.54" layer="26" font="vector" ratio="10" rot="MR270">Trippling</text>
 <hole x="5.08" y="77.47" drill="2"/>
 <hole x="55.88" y="99.06" drill="2"/>
+<text x="6.985" y="99.949" size="0.8128" layer="25" font="vector">JLCJLCJLCJLC</text>
+<text x="22.86" y="92.456" size="1.27" layer="26" font="vector" ratio="10" rot="MR270">J. Venhoda</text>
+<text x="20.955" y="89.916" size="0.8128" layer="26" font="vector" ratio="10" rot="MR270">2020</text>
 </plain>
 <libraries>
 <library name="resistor" urn="urn:adsk.eagle:library:348">
